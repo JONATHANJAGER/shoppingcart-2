@@ -1,0 +1,16 @@
+.img {
+	width: 200px;
+	padding: 25px;
+	border: 15px solid navy;
+	margin: 25px;
+	background-color: black;
+	position: fixed;
+	float: right;
+
+	
+}
+
+.button {
+	background-color: orange;
+}
+.
